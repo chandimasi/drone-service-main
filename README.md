@@ -1,8 +1,8 @@
 
 ## Drones Service  API
 ## Run the application
-Run DroneServiceMainApplication class
-
+Run DroneServiceMainApplication class or
+mvn spring-boot:run
 
 ## Limitation
 Drone can be carried only one medication
